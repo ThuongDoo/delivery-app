@@ -1,0 +1,9 @@
+[submodule "delivery-admin"]
+	path = delivery-admin
+	url = https://github.com/ThuongDoo/delivery-admin.git
+[submodule "delivery-app-API"]
+	path = delivery-app-API
+	url = https://github.com/ThuongDoo/delivery-app-API.git
+[submodule "delivery-client"]
+	path = delivery-client
+	url = https://github.com/ThuongDoo/delivery-client.git
