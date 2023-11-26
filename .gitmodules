@@ -7,3 +7,6 @@
 [submodule "delivery-client"]
 	path = delivery-client
 	url = https://github.com/ThuongDoo/delivery-client.git
+[submodule "delivery-admin-v2"]
+	path = delivery-admin-v2
+	url = https://github.com/ThuongDoo/delivery-admin-v2.git
